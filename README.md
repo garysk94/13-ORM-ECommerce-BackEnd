@@ -16,8 +16,7 @@ A database will need to be created first then seeded wih data.
  The link for the demo
  https://drive.google.com/file/d/1D8x6cqBe8x2mzm6xhwnJOKN9DX7tKYMO/view
  
- # License 
-    MIT 
+ 
  
  # Contact 
  https://github.com/garysk94
